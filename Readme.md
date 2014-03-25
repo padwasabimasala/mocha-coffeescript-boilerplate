@@ -18,7 +18,7 @@ For a more extensive demo of Mocha's featureset, take a look at [ryu22e/mocha-ex
 
 The MIT License
 
-Copyright (c) 2012 Chris Smith
+Copyright (c) 2014 Chris Smith, Matthew Thorley
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
